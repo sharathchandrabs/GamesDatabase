@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GamesDb</string>
+    <string name="gamesdb">The Games DB</string>
+    <string name="searchButton">Search</string>
+    <string name="goButton">Go</string>
+    <string name="baseUrl">http://thegamesdb.net/api/GetGamesList.php</string>
+    <string name="baseUrlGameDetails">http://thegamesdb.net/api/GetGame.php</string>
+    <string name="method">GET</string>
+    <string name="nameParam">name</string>
+    <string name="playTrailer">Play Trailer</string>
+    <string name="similarGames">Similar Games</string>
+    <string name="finishButton">Finish</string>
+    <string name="gameOverview">Overview</string>
+    <string name="gameGenre">Genre: </string>
+    <string name="gamePublisher">Publisher: </string>
+    <string name="intentToGameDetails">TO_GAME_DETAILS</string>
+    <string name="id">id</string>
+    <string name="intentToSimilarGames">TO_SIMILAR_GAMES</string>
+    <string name="similarGamesTo">SIMILAR_TO</string>
+    <string name="webViewUrl">WebViewUrl</string>
+    <string name="SimilarGamesText">Similar games to</string>
+    <string name="noSimilarGameDetails">No Similar Game Details Received From Previous Activity!</string>
+    <string name="noWebviewDetails">No trailer available for the game</string>
+    <string name="parsingerror">Bad Network connection. Try Again...</string>
+    <string name="noSimilarGamesAvailable">No Similar Games Available for this game.</string>
+    <string name="noGamesAvailable">No games with the name you are looking for!</string>
+    <string name="gameTitleUnavailable">Game Title detail not available</string>
+    <string name="gameReleaseNotAvailable">Game release date not available</string>
+    <string name="gamePlatformUnavailable">Game Platform detail not available</string>
+    <string name="releasedIn">. Released in </string>
+    <string name="platform">. Platform: </string>
+</resources>
